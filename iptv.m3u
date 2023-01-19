@@ -39,6 +39,41 @@ https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
 https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV6",CCTV1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV6",CCTV2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视IPV6",CCTV3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV6",CCTV5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视IPV6",CCTV5+
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视IPV6",CCTV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视IPV6",CCTV7
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视IPV6",CCTV8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视IPV6",CCTV9
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视IPV6",CCTV10
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视IPV6",CCTV11
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视IPV6",CCTV12
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视IPV6",CCTV13
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视IPV6",CCTV14
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV6",CCTV15
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV6",CCTV16
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 8M
 https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视 8M
@@ -89,11 +124,364 @@ https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育 8M
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://www.whalenas.com/bestv/index.php?id=zjwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视IPV6",浙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225491/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://www.whalenas.com/bestv/index.php?id=bjwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视IPV6",北京卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225600/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://www.whalenas.com/bestv/index.php?id=lnwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视IPV6",辽宁卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+https://www.whalenas.com/bestv/index.php?id=ahwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视IPV6",安徽卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://www.whalenas.com/bestv/index.php?id=jswshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视IPV6",江苏卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+https://www.whalenas.com/bestv/index.php?id=dfwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视IPV6",东方卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225489/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+https://www.whalenas.com/bestv/index.php?id=dnwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视IPV6",东南卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://www.whalenas.com/bestv/index.php?id=hunanwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视IPV6",湖南卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视IPV6",湖北卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225596/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+https://www.whalenas.com/bestv/index.php?id=gdwshd8m/8000000
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+https://www.whalenas.com/bestv/index.php?id=gxwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视IPV6",广西卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://www.whalenas.com/bestv/index.php?id=szwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视IPV6",深圳卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225598/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+https://www.whalenas.com/bestv/index.php?id=scwshd/8000000
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视IPV6",四川卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://www.whalenas.com/bestv/index.php?id=sdws8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视IPV6",山东卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+https://www.whalenas.com/bestv/index.php?id=hnwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视IPV6",河南卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+https://www.whalenas.com/bestv/index.php?id=hbwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视IPV6",河北卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225610/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+https://www.whalenas.com/bestv/index.php?id=jxws8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视IPV6",江西卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225492/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+https://www.whalenas.com/bestv/index.php?id=tjwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视IPV6",天津卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+https://www.whalenas.com/bestv/index.php?id=cqws8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视IPV6",重庆卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+https://www.whalenas.com/bestv/index.php?id=hljwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视IPV6",黑龙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://www.whalenas.com/bestv/index.php?id=jlwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视IPV6",吉林卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225680/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+https://www.whalenas.com/bestv/index.php?id=hainanwshd8m/8000000
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视IPV6",海南卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+https://www.whalenas.com/bestv/index.php?id=ynwshd8m/8000000
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+https://www.whalenas.com/bestv/index.php?id=gzwshd8m/8000000
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/nowsports4k.PNG" group-title="香港NOW SPORTS",Now Sports UHD HK
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/nowsports4k.PNG" group-title="香港NOW SPORTS",Now Sports UHD HK-1
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/nowsports4k.PNG" group-title="香港NOW SPORTS",Now Sports UHD HK-2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/nowsports4k.PNG" group-title="香港NOW SPORTS",Now Sports UHD HK-3
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/117957
+#EXTINF:-1 tvg-id="554949" tvg-name="HK| NOW SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554949&extension=ts&play_token=XWRY8eYrZY
+#EXTINF:-1 tvg-id="554948" tvg-name="HK| NOW SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554948&extension=ts&play_token=rL3rerdHEH
+#EXTINF:-1 tvg-id="554947" tvg-name="HK| NOW SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554947&extension=ts&play_token=iE1GPQatpB
+#EXTINF:-1 tvg-id="554946" tvg-name="HK| NOW SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554946&extension=ts&play_token=YM7THcUXoh
+#EXTINF:-1 tvg-id="554945" tvg-name="HK| NOW SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554945&extension=ts&play_token=XjyQS2Hx7M
+#EXTINF:-1 tvg-id="554944" tvg-name="HK| NOW SPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 6 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554944&extension=ts&play_token=nDSbaJ2YUs
+#EXTINF:-1 tvg-id="554943" tvg-name="HK| NOW SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW SPORTS 7 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554943&extension=ts&play_token=JyOiBTPc33
+#EXTINF:-1 tvg-id="554953" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="香港NOW SPORTS",HK| NOW PREMIER SPORTS 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554953&extension=ts&play_token=GOrtHpTYly
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="香港NOW SPORTS",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="香港NOW SPORTS",Astro Super Sport 4K-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="香港NOW SPORTS",Astro Super Sport 4K-2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="香港NOW SPORTS",Astro Super Sport 4K-3
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="香港NOW SPORTS",V Sports UHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/114242
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="香港NOW SPORTS",V Sports UHD备
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png" group-title="香港NOW SPORTS",BeIN Sports 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="香港NOW SPORTS",Eleven Sports 1 4K
+http://4iptv.xyz:8080/IvanC10/5RVePcKFMFGG/154014
+#EXTINF:-1 tvg-name="Evenement UHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/evenement.png" group-title="香港NOW SPORTS",Evenement UHD
+http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
+#EXTINF:-1 tvg-name="Ziggo Sport 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ziggo.png" group-title="香港NOW SPORTS",Ziggo Sport 4K
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:-1 tvg-name="RTL UHD" tvg-logo="https://media.info/i/lf/600/1507473884/6934.png" group-title="香港NOW SPORTS",RTL UHD
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png" group-title="香港NOW SPORTS",Hub Premier Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/DBA793B1-61D9-48FD-B2DA-F0B8EA9CC24C.jpeg" group-title="香港NOW SPORTS",DAZN F1 UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/4930
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/54E1DBAE-95C7-4DBD-A513-422DBC8E4A4E.jpeg" group-title="香港NOW SPORTS",MOVISTAR LIGA DE CAMPEONES UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/12401
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C8A5D94F-4F16-404B-A7CD-7D72B7A60C78.jpeg" group-title="香港NOW SPORTS",ODISEA UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/5195
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png" group-title="香港NOW SPORTS",Sport5 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="香港NOW SPORTS",TRT 4k
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38904
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="香港NOW SPORTS",TRT 4k备
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png" group-title="香港NOW SPORTS",DIGI 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育6
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育7
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育8
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育9
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育10
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育11
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育12
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育13
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育14
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育15
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育16
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育17
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育18
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育19
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育20
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育21
+http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育22
+http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育23
+http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育24
+http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育25
+http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育26
+http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+#EXTINF:-1 tvg-id="咪咕1" tvg-name="咪咕1" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕&国内体育",咪咕体育27
+http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="咪咕&国内体育",咪咕体育-4K-HLG源
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用1" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="咪咕&国内体育",咪咕体育-4K-HLG源-1
+http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="咪咕&国内体育",咪咕体育-4K-HLG源-2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="咪咕&国内体育",劲爆体育 8M
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="咪咕&国内体育",五星体育 8M
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉 8M
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="咪咕&国内体育",新视觉 8M
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="体育",超级体育 8M
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="咪咕&国内体育",超级体育 8M
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+
+#EXTINF:-1 tvg-id="749756" tvg-name="US| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",US| NBA TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=749756&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 01 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 01 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836373&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 02  -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 02  -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836372&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 03 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 03 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836371&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 04 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 04 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836370&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 05 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 05 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836369&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 06 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 06 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836368&extension=ts
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 07 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 07 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836367&extension=ts
+#EXTINF:-1 tvg-id="836366" tvg-name="NBA LIVE| 08 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 08 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836366&extension=ts
+#EXTINF:-1 tvg-id="836365" tvg-name="NBA LIVE| 09 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 09 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836365&extension=ts
+#EXTINF:-1 tvg-id="836364" tvg-name="NBA LIVE| 10 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 10 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836364&extension=ts
+#EXTINF:-1 tvg-id="836363" tvg-name="NBA LIVE| 11 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 11 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836363&extension=ts
+#EXTINF:-1 tvg-id="836362" tvg-name="NBA LIVE| 12 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 12 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836362&extension=ts
+#EXTINF:-1 tvg-id="836360" tvg-name="NBA LIVE| 14 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 14 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836360&extension=ts
+#EXTINF:-1 tvg-id="836361" tvg-name="NBA LIVE| 13 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 13 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836361&extension=ts
+#EXTINF:-1 tvg-id="836359" tvg-name="NBA LIVE|15 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE|15 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836359&extension=ts
+#EXTINF:-1 tvg-id="1040607" tvg-name="###  NBA LEAGUE REPLAY  ###" group-title="US| NBA PACKAGE",###  NBA LEAGUE REPLAY  ###
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040607&extension=ts
+#EXTINF:-1 tvg-id="1040606" tvg-name="NBA REPLAY INFO HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY INFO HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040606&extension=ts
+#EXTINF:-1 tvg-id="1040605" tvg-name="NBA REPLAY HIGHLIGHTS HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY HIGHLIGHTS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040605&extension=ts
+#EXTINF:-1 tvg-id="1040604" tvg-name="NBA REPLAY 1 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040604&extension=ts
+#EXTINF:-1 tvg-id="1040603" tvg-name="NBA REPLAY 2 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040603&extension=ts
+#EXTINF:-1 tvg-id="1040602" tvg-name="NBA REPLAY 3 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040602&extension=ts
+#EXTINF:-1 tvg-id="1040601" tvg-name="NBA REPLAY 4 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040601&extension=ts
+#EXTINF:-1 tvg-id="1040600" tvg-name="NBA REPLAY 5 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040600&extension=ts
+#EXTINF:-1 tvg-id="1040599" tvg-name="NBA REPLAY 6 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 6 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040599&extension=ts
+#EXTINF:-1 tvg-id="1040598" tvg-name="NBA REPLAY 7 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 7 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040598&extension=ts
+#EXTINF:-1 tvg-id="1040597" tvg-name="NBA REPLAY 8 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 8 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040597&extension=ts
+#EXTINF:-1 tvg-id="1040596" tvg-name="NBA REPLAY 9 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 9 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040596&extension=ts
+#EXTINF:-1 tvg-id="1040595" tvg-name="NBA REPLAY 10 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 10 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040595&extension=ts
+#EXTINF:-1 tvg-id="1040594" tvg-name="NBA REPLAY 11 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 11 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040594&extension=ts
+#EXTINF:-1 tvg-id="1040593" tvg-name="NBA REPLAY 12 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 12 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040593&extension=ts
+#EXTINF:-1 tvg-id="1040592" tvg-name="NBA REPLAY 13 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 13 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040592&extension=ts
+#EXTINF:-1 tvg-id="1040591" tvg-name="NBA REPLAY 14 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 14 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040591&extension=ts
+#EXTINF:-1 tvg-id="1040590" tvg-name="NBA REPLAY 15 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 15 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040590&extension=ts
+#EXTINF:-1 tvg-id="1040589" tvg-name="NBA REPLAY 16 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 16 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040589&extension=ts
+#EXTINF:-1 tvg-id="1040588" tvg-name="NBA REPLAY 17 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 17 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040588&extension=ts
+#EXTINF:-1 tvg-id="836358" tvg-name="##### NBA TEAMS #####" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png" group-title="US| NBA PACKAGE",##### NBA TEAMS #####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836358&extension=ts
+#EXTINF:-1 tvg-id="836357" tvg-name="NBA TEAM| ATLANTA HAWKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-ATLANTA-HAWKS.png" group-title="US| NBA PACKAGE",NBA TEAM| ATLANTA HAWKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836357&extension=ts
+#EXTINF:-1 tvg-id="836356" tvg-name="NBA TEAM| BOSTON CELTICS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-BOSTON-CELTICS.png" group-title="US| NBA PACKAGE",NBA TEAM| BOSTON CELTICS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836356&extension=ts
+#EXTINF:-1 tvg-id="836355" tvg-name="NBA TEAM| BROOKLYN NETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-BROOKLYN-NETS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| BROOKLYN NETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836355&extension=ts
+#EXTINF:-1 tvg-id="836354" tvg-name="NBA TEAM| CHARLOTTE HORNETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CHARLOTTE-HORNETS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| CHARLOTTE HORNETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836354&extension=ts
+#EXTINF:-1 tvg-id="836353" tvg-name="NBA TEAM| CHICAGO BULLS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CHICAGO-BULLS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| CHICAGO BULLS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836353&extension=ts
+#EXTINF:-1 tvg-id="836352" tvg-name="NBA TEAM| CLEVELAND CAVALIERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CLEVELAND-CAVALIERS.png" group-title="US| NBA PACKAGE",NBA TEAM| CLEVELAND CAVALIERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836352&extension=ts
+#EXTINF:-1 tvg-id="836351" tvg-name="NBA TEAM| DALLAS MAVERICKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DALLAS-MAVERICKS.png" group-title="US| NBA PACKAGE",NBA TEAM| DALLAS MAVERICKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836351&extension=ts
+#EXTINF:-1 tvg-id="836350" tvg-name="NBA TEAM| DENVER NUGGETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DENVER-NUGGETS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| DENVER NUGGETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836350&extension=ts
+#EXTINF:-1 tvg-id="836349" tvg-name="NBA TEAM| DETROIT PISTONS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DETROIT-PISTONS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| DETROIT PISTONS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836349&extension=ts
+#EXTINF:-1 tvg-id="836348" tvg-name="NBA TEAM| GOLDEN STATE WARRIORS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-GOLDEN-STATE-WARRIORS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| GOLDEN STATE WARRIORS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836348&extension=ts
+#EXTINF:-1 tvg-id="836347" tvg-name="NBA TEAM| HOUSTON ROCKETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-HOUSTON-ROCKETS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| HOUSTON ROCKETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836347&extension=ts
+#EXTINF:-1 tvg-id="836346" tvg-name="NBA TEAM| INDIANA PACERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-INDIANA-PACERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| INDIANA PACERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836346&extension=ts
+#EXTINF:-1 tvg-id="836345" tvg-name="NBA TEAM| LOS ANGELES CLIPPERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-LOS-ANGELES-CLIPPERS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| LOS ANGELES CLIPPERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836345&extension=ts
+#EXTINF:-1 tvg-id="836344" tvg-name="NBA TEAM| LOS ANGELES LAKERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-LOS-ANGELES-LAKERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| LOS ANGELES LAKERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836344&extension=ts
+#EXTINF:-1 tvg-id="836343" tvg-name="NBA TEAM| MEMPHIS GRIZZLIES" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MEMPHIS-GRIZZLIES.png" group-title="US| NBA PACKAGE",NBA TEAM| MEMPHIS GRIZZLIES
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836343&extension=ts
+#EXTINF:-1 tvg-id="836342" tvg-name="NBA TEAM| MIAMI HEAT" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MIAMI-HEAT.jpg" group-title="US| NBA PACKAGE",NBA TEAM| MIAMI HEAT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836342&extension=ts
+#EXTINF:-1 tvg-id="836341" tvg-name="NBA TEAM| MILWAUKEE BUCKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MILWAUKEE-BUCKS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| MILWAUKEE BUCKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836341&extension=ts
+#EXTINF:-1 tvg-id="836340" tvg-name="NBA TEAM| MINNESOTA TIMBERWOLVES" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MINNESOTA-TIMBERWOLVES.png" group-title="US| NBA PACKAGE",NBA TEAM| MINNESOTA TIMBERWOLVES
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836340&extension=ts
+#EXTINF:-1 tvg-id="836339" tvg-name="NBA TEAM| NEW ORLEANS PELICANS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-NEW-ORLEANS-PELICAN.png" group-title="US| NBA PACKAGE",NBA TEAM| NEW ORLEANS PELICANS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836339&extension=ts
+#EXTINF:-1 tvg-id="836338" tvg-name="NBA TEAM| NEW YORK KNICKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-NEW-YORK-KNICKS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| NEW YORK KNICKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836338&extension=ts
+#EXTINF:-1 tvg-id="836337" tvg-name="NBA TEAM| OKLAHOMA CITY THUNDER" tvg-logo="http://logo.protv.cc/picons/logos/NBA-OKLAHOMA-CITY-THUNDER.png" group-title="US| NBA PACKAGE",NBA TEAM| OKLAHOMA CITY THUNDER
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836337&extension=ts
+#EXTINF:-1 tvg-id="836336" tvg-name="NBA TEAM| ORLANDO MAGIC" tvg-logo="http://logo.protv.cc/picons/logos/NBA-ORLANDO-MAGIC.png" group-title="US| NBA PACKAGE",NBA TEAM| ORLANDO MAGIC
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836336&extension=ts
+#EXTINF:-1 tvg-id="836335" tvg-name="NBA TEAM| PHILADELPHIA 76ERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PHILADELPHIA-76ERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PHILADELPHIA 76ERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836335&extension=ts
+#EXTINF:-1 tvg-id="836334" tvg-name="NBA TEAM| PHOENIX SUNS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PHOENIX-SUNS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PHOENIX SUNS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836334&extension=ts
+#EXTINF:-1 tvg-id="836333" tvg-name="NBA TEAM| PORTLAND TRAIL BLAZERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PORTLAND-TRAIL-BLAZERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PORTLAND TRAIL BLAZERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836333&extension=ts
+#EXTINF:-1 tvg-id="836332" tvg-name="NBA TEAM| SACRAMENTO KINGS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-SACRAMENTO-KINGS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| SACRAMENTO KINGS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836332&extension=ts
+#EXTINF:-1 tvg-id="836331" tvg-name="NBA TEAM| SAN ANTONIO SPURS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-SAN-ANTONIO-SPURS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| SAN ANTONIO SPURS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836331&extension=ts
+#EXTINF:-1 tvg-id="836330" tvg-name="NBA TEAM| TORONTO RAPTORS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TORONTO-RAPTORS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| TORONTO RAPTORS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836330&extension=ts
+#EXTINF:-1 tvg-id="836329" tvg-name="NBA TEAM| UTAH JAZZ" tvg-logo="http://logo.protv.cc/picons/logos/NBA-UTAH-JAZZ.png" group-title="US| NBA PACKAGE",NBA TEAM| UTAH JAZZ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836329&extension=ts
+#EXTINF:-1 tvg-id="836328" tvg-name="NBA TEAM| WASHINGTON WIZARDS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-WASHINGTON-WIZARDS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| WASHINGTON WIZARDS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836328&extension=ts
