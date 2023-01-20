@@ -5,17 +5,17 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="常用新闻",有线新闻台 
 http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://zh.m.wikipedia.org/wiki/File:Now_News_logo.svg" group-title="常用新闻",now新闻台
-https://pull-l3-cny.douyincdn.com/live/fc8c7beae985dd302950ed6e34f5837c.flv
+https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="常用新闻",香港国际财经台 
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="无线财经资讯台" tvg-name="无线财经资讯台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="常用新闻",无线财经资讯台 
-http://iptv.cooltv.top/tv/tvb.php?id=2
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="常用新闻",有线财经资讯台 
-http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+https://cdn.hklive.tv/xxxx/108/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="常用新闻",翡翠台 
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="常用新闻",明珠台 
-https://pull-l3-cny.douyincdn.com/live/80ca89bcfc6b6347b7da4f414d11b14f.flv
+https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用新闻",凤凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用新闻",凤凰资讯
