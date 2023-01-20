@@ -34,20 +34,20 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/abc.png"group-title="常用新闻",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="SG| BBC WORLD NEWS HD" tvg-name="SG| BBC WORLD NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/BBC-WORLD-NEWS.png" group-title="常用新闻",SG| BBC WORLD NEWS HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941693&extension=ts&play_token=ka9qHIEYRS
-#EXTINF:-1 tvg-id="SG| CNN HD" tvg-name="SG| CNN HD" tvg-logo="http://logo.protv.cc/picons/logos/cnn.png" group-title="常用新闻",SG| CNN HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941690&extension=ts&play_token=WHzfmDO9Ak
-#EXTINF:-1 tvg-id="SG| CNBC HD" tvg-name="SG| CNBC HD" tvg-logo="http://logo.protv.cc/picons/logos/cnbchd.png" group-title="常用新闻",SG| CNBC HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941689&extension=ts&play_token=7kNyMGuSvD
-#EXTINF:-1 tvg-id="FOX NEWS CHANNEL HD" tvg-name="SG| FOX NEWS CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-NEWS-NP.png" group-title="常用新闻",SG| FOX NEWS CHANNEL HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941685&extension=ts&play_token=YIJ4hz4nSQ
-#EXTINF:-1 tvg-id="SG| SKY NEWS HD" tvg-name="SG| SKY NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/skynews.png" group-title="常用新闻",SG| SKY NEWS HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941684&extension=ts&play_token=z40oSLGKCd
-#EXTINF:-1 tvg-id="SG| TVBS-NEWS HD" tvg-name="SG| TVBS-NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="常用新闻",SG| TVBS-NEWS HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941622&extension=ts&play_token=AylfeOpm2Q
-#EXTINF:-1 tvg-id="SG| NHK WORLD JAPAN HD" tvg-name="SG| NHK WORLD JAPAN HD" tvg-logo="http://logo.protv.cc/picons/logos/nhkworldjapan.png" group-title="常用新闻",SG| NHK WORLD  JAPAN HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941610&extension=ts&play_token=UsFL0iTQZr
+#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="http://logo.protv.cc/picons/logos/cnn.png" group-title="常用新闻",CNN HD
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="NBC HD" tvg-name="CNBC HD" tvg-logo="http://logo.protv.cc/picons/logos/cnbchd.png" group-title="常用新闻",NBC HD
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-id="SKY NEWS HD" tvg-name="SKY NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/skynews.png" group-title="常用新闻",SKY NEWS HD
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:-1 tvg-id="NHK WORLD HD" tvg-name="NHK WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/nhkworldjapan.png" group-title="常用新闻",NHK WORLD HD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="ChannelNewsAsia" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="常用新闻",ChannelNewsAsia
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="常用新闻",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="CNBCHongKong" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="常用新闻",CNBCHongKong
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
