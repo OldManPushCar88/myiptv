@@ -6,15 +6,15 @@ http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="常用",TVBS新闻台
-TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="http://www.tvniu.com/tvimg/img/tvbs.jpg" group-title="常用",TVBS新闻台
+http://158.101.151.82:9000/jmsytb.m3u8?c=03
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="常用",中天新闻
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
+http://158.101.151.82:9000/jmsytb.m3u8?c=05
 #EXTINF:-1 tvg-id="" tvg-name="广东体育高清" tvg-logo="https://i.imgur.com/AcGbrzc.png" group-title="常用",广东体育高清
 http://36.99.122.13/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://i.imgur.com/AcGbrzc.png" group-title="常用",广东体育
 http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://i.imgur.com/AcGbrzc.png" group-title="常用",广州竞赛
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://img.meituan.net/csc/1038a8fe105c1696bb104aa0582064d211532.jpg" group-title="常用",广州竞赛
 http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
