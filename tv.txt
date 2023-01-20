@@ -1,0 +1,53 @@
+无线新闻,http://iptv.cooltv.top/tv/tvb.php?id=0 
+有线新闻台,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8 
+凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 
+凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
+广东体育高清,http://36.99.122.13/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育,http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
+广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs
+CCTV1 高清,https://live.v1.mk/api/bestv.php?id=cctv1hd高清/8000000
+CCTV2 高清,https://live.v1.mk/api/bestv.php?id=cctv2hd高清/8000000
+CCTV3 高清,https://live.v1.mk/api/bestv.php?id=cctv3高清/8000000
+CCTV4 高清,https://live.v1.mk/api/bestv.php?id=cctv4hd高清/8000000,
+CCTV5 高清,https://live.v1.mk/api/bestv.php?id=cctv5高清/8000000
+CCTV5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd高清/8000000
+CCTV6 高清,https://live.v1.mk/api/bestv.php?id=cctv6hd高清/8000000
+CCTV7 高清,https://live.v1.mk/api/bestv.php?id=cctv7hd高清/8000000
+CCTV8 高清,https://live.v1.mk/api/bestv.php?id=cctv8hd高清/8000000
+CCTV9 高清,https://live.v1.mk/api/bestv.php?id=cctv9hd高清/8000000
+CCTV10 高清,https://live.v1.mk/api/bestv.php?id=cctv10hd高清/8000000
+CCTV11 高清,https://live.v1.mk/api/bestv.php?id=cctv11hd高清/8000000
+CCTV12 高清,https://live.v1.mk/api/bestv.php?id=cctv12hd高清/8000000
+CCTV13 高清,https://live.v1.mk/api/bestv.php?id=cctv13xwhd高清/8000000
+CCTV14 高清,https://live.v1.mk/api/bestv.php?id=cctvsehd高清/8000000
+CCTV15 高清,https://live.v1.mk/api/bestv.php?id=cctv15hd高清/8000000
+CCTV16 高清,https://live.v1.mk/api/bestv.php?id=cctv16hd高清/8000000
+CCTV17 高清,https://live.v1.mk/api/bestv.php?id=cctv17hd高清/8000000
+江苏卫视 高清,https://live.v1.mk/api/bestv.php?id=jswshd高清/8000000
+湖南卫视 高清,https://live.v1.mk/api/bestv.php?id=hunanwshd高清/8000000
+浙江卫视 高清,https://live.v1.mk/api/bestv.php?id=zjwshd高清/8000000
+东方卫视 高清,https://live.v1.mk/api/bestv.php?id=dfwshd高清/8000000
+北京卫视 高清,https://live.v1.mk/api/bestv.php?id=bjwshd高清/8000000
+广东卫视 高清,https://live.v1.mk/api/bestv.php?id=gdwshd高清/8000000
+深圳卫视 高清,https://live.v1.mk/api/bestv.php?id=szwshd高清/8000000
+东南卫视 高清,https://live.v1.mk/api/bestv.php?id=dnwshd高清/8000000
+海南卫视 高清,https://live.v1.mk/api/bestv.php?id=hainanwshd高清/8000000
+CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
+CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
+CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
+CCTV4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
+CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
+CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
+CCTV6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
+CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
+CCTV8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
+CCTV9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
+CCTV10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
+CCTV11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
+CCTV12,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
+CCTV13,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
+CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
+CCTV15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
