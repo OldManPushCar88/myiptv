@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="常用",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="常用",无线新闻台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="常用",有线新闻台 
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
@@ -12,12 +12,22 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u
 http://158.101.151.82:9000/jmsytb.m3u8?c=03
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="常用",中天新闻
 http://158.101.151.82:9000/jmsytb.m3u8?c=05
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="常用",翡翠台 
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育高清" tvg-logo="https://i.imgur.com/AcGbrzc.png" group-title="常用",广东体育高清
 http://36.99.122.13/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://i.imgur.com/AcGbrzc.png" group-title="常用",广东体育
 http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1后备1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1后备1
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1后备2" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1后备2
+https://live.v1.mk/aishang/cctv1hd
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1后备3" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1后备3
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1后备4" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1后备4
+https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
 https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3 8M
