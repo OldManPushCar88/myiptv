@@ -39,8 +39,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="常用",NBC HD
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHK WORLD HD
