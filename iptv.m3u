@@ -302,21 +302,21 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 #EXTINF:-1,tvg-id="Now Sports UHD HK-3" tvg-name="Now Sports UHD HK-3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTSUHDHK3.png" group-title="体育",Now Sports UHD HK-3
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/117957
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 1 HD" tvg-name="HK| NOW SPORTS 1 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS1.png" group-title="体育",HK| NOW SPORTS 1 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554949&extension=ts&play_token=XWRY8eYrZY
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554949&extension=ts&play_token=XWRY8eYrZY
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 2 HD" tvg-name="HK| NOW SPORTS 2 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS2.png" group-title="体育",HK| NOW SPORTS 2 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554948&extension=ts&play_token=rL3rerdHEH
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554948&extension=ts&play_token=rL3rerdHEH
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 3 HD" tvg-name="HK| NOW SPORTS 3 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS3.png" group-title="体育",HK| NOW SPORTS 3 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554947&extension=ts&play_token=iE1GPQatpB
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554947&extension=ts&play_token=iE1GPQatpB
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 4 HD" tvg-name="HK| NOW SPORTS 4 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS4.png" group-title="体育",HK| NOW SPORTS 4 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554946&extension=ts&play_token=YM7THcUXoh
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554946&extension=ts&play_token=YM7THcUXoh
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 5 HD" tvg-name="HK| NOW SPORTS 5 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS5.png" group-title="体育",HK| NOW SPORTS 5 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554945&extension=ts&play_token=XjyQS2Hx7M
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554945&extension=ts&play_token=XjyQS2Hx7M
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 6 HD" tvg-name="HK| NOW SPORTS 6 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS6.png" group-title="体育",HK| NOW SPORTS 6 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554944&extension=ts&play_token=nDSbaJ2YUs
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554944&extension=ts&play_token=nDSbaJ2YUs
 #EXTINF:-1,tvg-id="HK| NOW SPORTS 7 HD" tvg-name="HK| NOW SPORTS 7 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWSPORTS7.png" group-title="体育",HK| NOW SPORTS 7 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554943&extension=ts&play_token=JyOiBTPc33
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554943&extension=ts&play_token=JyOiBTPc33
 #EXTINF:-1,tvg-id="HK| NOW PREMIER SPORTS 1 HD" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="https://epg.112114.xyz/logo/HK|NOWPREMIERSPORTS1.png" group-title="体育",HK| NOW PREMIER SPORTS 1 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554953&extension=ts&play_token=GOrtHpTYly
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554953&extension=ts&play_token=GOrtHpTYly
 #EXTINF:-1,tvg-id="Astro Super Sport 4K" tvg-name="Astro Super Sport 4K" tvg-logo="https://epg.112114.xyz/logo/ASTROSUPERSPORT4K.png" group-title="体育",Astro Super Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1,tvg-id="Astro Super Sport 4K-1" tvg-name="Astro Super Sport 4K-1" tvg-logo="https://epg.112114.xyz/logo/ASTROSUPERSPORT4K1.png" group-title="体育",Astro Super Sport 4K-1
@@ -448,37 +448,7 @@ https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="咪咕&国内体育",超级体育 8M
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 #EXTINF:-1,tvg-id="US| NBA TV HD" tvg-name="US| NBA TV HD" tvg-logo="https://epg.112114.xyz/logo/US|NBATV.png" group-title="NBA",US| NBA TV HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=749756&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 01 -" tvg-name="NBA LIVE| 01 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|01.png" group-title="NBA",NBA LIVE| 01 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836373&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 02  -" tvg-name="NBA LIVE| 02  -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|02.png" group-title="NBA",NBA LIVE| 02  -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836372&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 03 -" tvg-name="NBA LIVE| 03 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|03.png" group-title="NBA",NBA LIVE| 03 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836371&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 04 -" tvg-name="NBA LIVE| 04 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|04.png" group-title="NBA",NBA LIVE| 04 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836370&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 05 -" tvg-name="NBA LIVE| 05 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|05.png" group-title="NBA",NBA LIVE| 05 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836369&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 06 -" tvg-name="NBA LIVE| 06 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|06.png" group-title="NBA",NBA LIVE| 06 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836368&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 07 -" tvg-name="NBA LIVE| 07 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|07.png" group-title="NBA",NBA LIVE| 07 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836367&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 08 -" tvg-name="NBA LIVE| 08 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|08.png" group-title="NBA",NBA LIVE| 08 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836366&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 09 -" tvg-name="NBA LIVE| 09 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|09.png" group-title="NBA",NBA LIVE| 09 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836365&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 10 -" tvg-name="NBA LIVE| 10 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|10.png" group-title="NBA",NBA LIVE| 10 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836364&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 11 -" tvg-name="NBA LIVE| 11 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|11.png" group-title="NBA",NBA LIVE| 11 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836363&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 12 -" tvg-name="NBA LIVE| 12 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|12.png" group-title="NBA",NBA LIVE| 12 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836362&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 14 -" tvg-name="NBA LIVE| 14 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|14.png" group-title="NBA",NBA LIVE| 14 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836360&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE| 13 -" tvg-name="NBA LIVE| 13 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|13.png" group-title="NBA",NBA LIVE| 13 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836361&extension=ts
-#EXTINF:-1,tvg-id="NBA LIVE|15 -" tvg-name="NBA LIVE|15 -" tvg-logo="https://epg.112114.xyz/logo/NBALIVE|15.png" group-title="NBA",NBA LIVE|15 -
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836359&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="澳大利亚🇦🇺",Seven
 https://i.mjh.nz/7-mel1.m3u8
 #EXTINF:-1,tvg-id="7two" tvg-name="7two" tvg-logo="https://epg.112114.xyz/logo/7TWO.png" group-title="澳大利亚🇦🇺",7two
