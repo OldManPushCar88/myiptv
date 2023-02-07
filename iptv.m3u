@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
-http://iptv.cooltv.top/tv/tvb.php?id=0
+http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="常用",now新闻台
