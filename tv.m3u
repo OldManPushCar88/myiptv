@@ -16,9 +16,11 @@ http://158.101.151.82:9000/jmsytb.m3u8?c=05
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
-http://36.99.122.13/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-#EXTINF:-1,tvg-id="广东体育后备" tvg-name="广东体育后备" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育后备
-http://121.51.249.73/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+http://121.51.249.63/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
+#EXTINF:-1,tvg-id="广东体育后备1" tvg-name="广东体育后备1" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育后备1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
+#EXTINF:-1,tvg-id="广东体育后备2" tvg-name="广东体育后备2" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育后备2
+https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=93506e1d75f082ec0fd3def44bfb6843-m3QhvSycUb94YdBF1CFE7fTza%2Bkr60Wm1nVW4jYgKmQANOJFDWLBL9xer%2BFS9f4ab8VvEo5GuLkupzDNCzSRp%2FXZDSsA4m1mOL68OgtnEstE3PIdJM44dzF49MrbogvOAdGwa%2FYrPr3FXnaPKpFNweVHuBTTwRbtkjmYixXwx3C47QizXVBEnwnun6Ytfh5yGdmZSFliaRz4v3A2sZgawYQPZWTJhucQXHr%2FrI5E9%2BhENGtdZK5Ph5wGzln9%2FiL%2BBSVLfh9Jerj3iV1Kcwc0Uv6YQyFcMGqazqfc2mGf%2Fk9nEkNl9kffo2FMq4uWucdBnpE69O48dgjBdpitzOTnDeHbdDR0Sq41OFBgbnuiwPgpE0WhSFX5ar3EC7OaIcO6rCU0Utjang5dqc9OqF%2FCLi57QFGTltknSczEFditZlhn6nVeGbd6Ub9GxbCup82M
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
