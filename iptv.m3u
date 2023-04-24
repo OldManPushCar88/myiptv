@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
-https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-14672782023042400513.m3u8
 #EXTINF:-1,tvg-id="无线新闻后备" tvg-name="无线新闻后备" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台后备
 http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
@@ -10,17 +10,17 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="常用",无线财经资讯台 
-https://cdn.hklive.tv/xxxx/85/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-15682782023042400546.m3u8
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="常用",有线财经资讯台 
-https://cdn.hklive.tv/xxxx/108/index.m3u8
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
-http://23.237.10.66:16106
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台 
-https://cdn.hklive.tv/xxxx/84/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023041723128.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8?by=yeslivetv_com
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
