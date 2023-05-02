@@ -4,19 +4,21 @@ http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
+http://2022.stream-link.org/live/58079722
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8?by=yeslivetv_com
+http://2022.stream-link.org/live/433059615
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
 http://live.cooltv.top/tv/good.php?id=1350_4500
+#EXTINF:-1 group-title="常用",台湾中天新聞
+http://2023.stream-link.org/live/2072341054
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
 http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="广东体育后备1" tvg-name="广东体育后备1" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育后备1
 http://live.cooltv.top/tv/gd.php?id=gdty
-#EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="常用",北京体育
-https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
-#EXTINF:-1,tvg-id="爱尔达体育" tvg-name="爱尔达体育" group-title="常用",台湾爱尔达体育
-http://103.68.63.37:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1,tvg-id="NBA直播" tvg-name="NBA直播" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="常用",NBA直播
+http://143.244.60.97/NBATV/index.m3u8
+#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
 #EXTINF:-1,tvg-id="ELEVEN" tvg-name="台湾ELEVEN体育" group-title="常用",台湾ELEVEN体育
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
