@@ -10,11 +10,11 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="常用",无线财经资讯台 
-http://2022.stream-link.org/live/1652644142
+http://162.19.247.76:22222/live/tvbj5/index.m3u8
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="常用",有线财经资讯台 
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
-http://2022.stream-link.org/live/1008470469
+http://tv.beimua.com/tvs.php?id=16
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台 
 http://120.84.96.87:808/hls/26/index.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153399
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
