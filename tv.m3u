@@ -23,16 +23,10 @@ http://live.cooltv.top/tv/gd.php?id=gdty
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
-#EXTINF:-1,tvg-id="ELEVEN1体育" tvg-name="ELEVEN1体育" group-title="常用",ELEVEN1体育
-http://61.221.81.93:8534/hls/65/807/ch843.m3u8
-#EXTINF:-1,tvg-id="ELEVEN2体育" tvg-name="ELEVEN2体育" group-title="常用",ELEVEN2体育
-http://61.221.81.93:8539/hls/65/807/ch843.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" group-title="常用",愛爾達體育1台
-http://tv.beimua.com/tvs.php?id=5
-#EXTINF:-1,tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" group-title="常用",愛爾達體育2台
-http://tv.beimua.com/tvs.php?id=6
 #EXTINF:-1,tvg-id="纬来体育NBA" tvg-name="纬来体育NBA" group-title="常用",纬来体育NBA
 http://tv.beimua.com/tvs.php?id=8
+#EXTINF:-1,tvg-id="百世体育NBA" tvg-name="百世体育NBA" group-title="常用",百世体育NBA
+http://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683478805-d168a0d78d6d45da8bc2f09e38db41f3-0-cd32c675c6cce6a6a4cb1072bfd616c0
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
