@@ -4,11 +4,11 @@ http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-http://2022.stream-link.org/live/58079722
+http://2022.stream-link.org/tv/707750042
 #EXTINF:-1,tvg-id="凤凰中文-备" tvg-name="凤凰中文-备" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文-备
 http://tv.beimua.com/tvs.php?id=11
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-http://2022.stream-link.org/live/433059615
+http://2022.stream-link.org/tv/2084570977
 #EXTINF:-1,tvg-id="凤凰资讯-备" tvg-name="凤凰资讯-备" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯-备
 http://tv.beimua.com/tvs.php?id=2
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
@@ -19,14 +19,12 @@ http://2023.stream-link.org/live/2072341054
 http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="广东体育后备1" tvg-name="广东体育后备1" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育后备1
 http://live.cooltv.top/tv/gd.php?id=gdty
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="常用",腾讯中文NBA
-https://txycdn.video.qq.com/1758567723.m3u8?from=player&time=1683416866&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOom6KoUJmr9VWhYTZJ-GW4R-7GLnizTGg53JoKv3puTEP2gAI_1cUQOtb_Rw8kvFJcBUPfFXDpmtuOvyAkUpBkkv-HuIHiEvMnH535xxZzBp82e7MdeR7bl2pYcxQjztsfX36Ms6Lh_ny6ipUMwvw_NmiCFzQQzB5cHbgRwBPssZizJ5Br3gon_DwEa_9FGXp2g0epmx_Q8a9PDuz5dVcXPUjHdygrJQ2xYeT3WnY7WTr_AwD0_mq4EReBdhKfIQ9nzmHSiq99v54kOHM3Ioe_MhwwYKjH86iITI9XkXqrCAMzEcUpEbFQHSV-k5IlhjRQ98xtmBVtSPAOtWEpJs2hN3B_DpwZD6wD4oIQsXJTQD2Ry92PQt0vk4f4Nmd-iKNy6rfl2p1F3692IkshFrYKlq7WeYQQVc8YyAM_aYLl3j7JlSeWUjUWdgtx28E8xuPPzT3U-tN2Gh4pzSufC6vkptNmQrZOZx-COIyq7MxdnhDCMuVyqM36va7AupKOu-rQ8aA==&drmtype=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="常用",腾讯英文NBA
-https://txycdn.video.qq.com/1758578723.m3u8?from=player&time=1683416901&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOHGJNKoevqGSRchLxOvFzqxKpB9Q9hpvGP0Lv8zXd8eEGkbKz-9pCbV7pJhZaeK74YBUN199otRoKGwRaP_m2q9pXVyz2NygnOBeFvVOj3Vgy-LLPOtj1wvZLOCT-Uz62MbQXKS-8xkCSwTH9e4c_t0IdQyyDK2PS2l71Op2okUYGKn6lVqlSB4U9Hq8xQSecKtIv4QZT9_Wke-Hstv05OITC56CdpPDW40mU-Yve5dmU4frzTtaGqMhB8enqbqQbdUj5Am_NNJjullZp9KbPbDe5wRtb448JeTe3VpOdv3FVn8lscNqDV_u8r_bkFpJFL6H7GOdjR6taoytThV-kLaV5bQHMK5_aLYe-Tc2JRGrWjkP7Z8YAjLRND4Hz6Gj6W0dO2oPZuxEIW4ATZIpFDtRh3UESNKNaCPrNnPcF2t3aRULvvTrD-toerlSs8uNBTl7av62s_LCD8pPkA-pGtyqnKV6pdybLOz71LYUcS674Ev-_HAG9Zm60Urht6lKP7EnQ==&drmtype=0
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
-http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
+http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
 #EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA" group-title="常用",TNT-NBA
 https://epg.pw/stream/1bd58ae858e19ad7099ee6f5ca82b84eb8bca1d163f64bb15998adec6703d361.ctv
+#EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA备" group-title="常用",TNT-NBA-备
+http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/4943
 #EXTINF:-1,tvg-id="纬来体育NBA" tvg-name="纬来体育NBA" group-title="常用",纬来体育NBA
 http://tv.beimua.com/tvs.php?id=8
 
