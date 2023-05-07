@@ -25,10 +25,10 @@ https://txycdn.video.qq.com/1758567723.m3u8?from=player&time=1683416866&cdn=tclo
 https://txycdn.video.qq.com/1758578723.m3u8?from=player&time=1683416901&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOHGJNKoevqGSRchLxOvFzqxKpB9Q9hpvGP0Lv8zXd8eEGkbKz-9pCbV7pJhZaeK74YBUN199otRoKGwRaP_m2q9pXVyz2NygnOBeFvVOj3Vgy-LLPOtj1wvZLOCT-Uz62MbQXKS-8xkCSwTH9e4c_t0IdQyyDK2PS2l71Op2okUYGKn6lVqlSB4U9Hq8xQSecKtIv4QZT9_Wke-Hstv05OITC56CdpPDW40mU-Yve5dmU4frzTtaGqMhB8enqbqQbdUj5Am_NNJjullZp9KbPbDe5wRtb448JeTe3VpOdv3FVn8lscNqDV_u8r_bkFpJFL6H7GOdjR6taoytThV-kLaV5bQHMK5_aLYe-Tc2JRGrWjkP7Z8YAjLRND4Hz6Gj6W0dO2oPZuxEIW4ATZIpFDtRh3UESNKNaCPrNnPcF2t3aRULvvTrD-toerlSs8uNBTl7av62s_LCD8pPkA-pGtyqnKV6pdybLOz71LYUcS674Ev-_HAG9Zm60Urht6lKP7EnQ==&drmtype=0
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
+#EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA" group-title="常用",TNT-NBA
+https://epg.pw/stream/1bd58ae858e19ad7099ee6f5ca82b84eb8bca1d163f64bb15998adec6703d361.ctv
 #EXTINF:-1,tvg-id="纬来体育NBA" tvg-name="纬来体育NBA" group-title="常用",纬来体育NBA
 http://tv.beimua.com/tvs.php?id=8
-#EXTINF:-1,tvg-id="百世体育NBA" tvg-name="百世体育NBA" group-title="常用",百世体育NBA
-http://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683478805-d168a0d78d6d45da8bc2f09e38db41f3-0-cd32c675c6cce6a6a4cb1072bfd616c0
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
