@@ -19,8 +19,8 @@ https://epg.pw/stream/1cb76592557a581644154d8da7c9bb7598ad76d3ed42175ba4b6f07700
 https://epg.pw/stream/5e30565b5ad22410a0caefd9f9b861e1ca9b073bb5db294e01ead03b46e7223e.m3u8
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
-#EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA" group-title="常用",TNT-NBA
-https://epg.pw/stream/1bd58ae858e19ad7099ee6f5ca82b84eb8bca1d163f64bb15998adec6703d361.ctv
+#EXTINF:-1,tvg-id="腾讯-NBA" tvg-name="腾讯-NBA" group-title="常用",腾讯-NBA
+https://txycdn.video.qq.com/1758622523.m3u8?time=1683768121&from=player&cdn=tcloud&sdtfrom=v402212&platform=10201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIEzmNLeBabzlVGr_xYJh2sI2cH3KSfu_gNn9mMLUt6p_EEU029O-Ke9_TtzGKuz4QxQBQP2_CMNFtYAacseyP4z9voMRLInwJBwlWjFiZf8037jBQE76WhbSQwtw-mTctVLBz44TgbaLzeKYoEs0qU9B6VrC5rc2ibaHswdKKAEbk3J1TyoYVG2NHeqYhBo-p43PwiIRgggNsT8_shzRvS-3WP05IJKIG9kk9Nl1XI9TEQXwkTxE5pCsBYWrv9GW6zWCIufagVI7zFycaoE91wFX8UOElI2SVXvXsR54yqDlMpXbv1Ndrgj1dtRLADRSHtudj9L7M12hrKQeXDC-hCat0ngXnRxyYeyS2y4BgPvHqGDxGRlpOt2LbRcM31FGWWOR8_nL9b9tGihXdh5SVpMJzsRe0jooC20oe5ax7tQNZZ--ShaEVZQH18OMJlptTeONLfFYT4wxXOsGd6uLRte3Pm_sqZ2-QywONH0Pal06EApN&drmtype=0
 #EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA备" group-title="常用",TNT-NBA-备
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/4943
 #EXTINF:-1,tvg-id="纬来体育NBA" tvg-name="纬来体育NBA" group-title="常用",纬来体育NBA
