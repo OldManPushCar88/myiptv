@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
-http://2022.stream-link.org/tv/797500227
-#EXTINF:-1,tvg-id="无线新闻后备" tvg-name="无线新闻后备" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台后备
-http://app.nettv.vip/hls/tvb.php?id=1
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="常用",now新闻台
@@ -14,23 +12,13 @@ http://tv.beimua.com/tvs.php?id=12
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="常用",有线财经资讯台 
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
-http://tv.beimua.com/tvs.php?id=16
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台 
 http://tv.beimua.com/tvs.php?id=17
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文-备" tvg-name="凤凰中文-备" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文-备
-http://tv.beimua.com/tvs.php?id=11
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯-备" tvg-name="凤凰资讯-备" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯-备
-http://tv.beimua.com/tvs.php?id=2
-#EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="常用",ABC NEWS Austrlia
-http://2022.stream-link.org/tv/173339455
-#EXTINF:-1 group-title="常用",台湾中天新聞
-http://2023.stream-link.org/live/2072341054
-#EXTINF:-1 group-title="常用",台湾東森新聞
-http://2023.stream-link.org/live/256467434
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
@@ -60,30 +48,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
-https://epg.pw/stream/1cb76592557a581644154d8da7c9bb7598ad76d3ed42175ba4b6f077005303ba.m3u8
-#EXTINF:-1,tvg-id="广东体育后备1" tvg-name="广东体育后备1" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育-备
-https://epg.pw/stream/5e30565b5ad22410a0caefd9f9b861e1ca9b073bb5db294e01ead03b46e7223e.m3u8
-#EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="常用",NBA
-http://143.244.60.97/NBATV/index.m3u8
+https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
+#EXTINF:-1,tvg-id="台湾ELEVEN体育" tvg-name="台湾ELEVEN体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",台湾ELEVEN体育
+rtmp://219.80.97.77/sat/tv731
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
-#EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA" group-title="常用",TNT-NBA
-https://epg.pw/stream/1bd58ae858e19ad7099ee6f5ca82b84eb8bca1d163f64bb15998adec6703d361.ctv
 #EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA备" group-title="常用",TNT-NBA-备
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/4943
-#EXTINF:-1,tvg-id="USA-Network" tvg-name="USA-Network" group-title="常用",USA-Network
-http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/301196
 
-#EXTINF:-1,tvg-id="ELEVEN1体育" tvg-name="ELEVEN1体育" group-title="常用",ELEVEN1体育
-rtmp://219.80.97.77/sat/tv731
-#EXTINF:-1,tvg-id="ELEVEN2体育" tvg-name="ELEVEN2体育" group-title="常用",ELEVEN2体育
-rtmp://219.80.97.77/sat/tv741
-#EXTINF:-1,tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" group-title="常用",愛爾達體育1台
-http://tv.beimua.com/tvs.php?id=5
-#EXTINF:-1,tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" group-title="常用",愛爾達體育2台
-http://tv.beimua.com/tvs.php?id=6
-#EXTINF:-1,tvg-id="纬来体育NBA" tvg-name="纬来体育NBA" group-title="常用",纬来体育NBA
-rtmp://219.80.97.77/sat/tv721
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
