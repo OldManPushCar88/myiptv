@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
 https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
-#EXTINF:-1,tvg-id="台湾ELEVEN体育" tvg-name="广东体育后备1" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",台湾ELEVEN体育
+#EXTINF:-1,tvg-id="台湾ELEVEN体育" tvg-name="台湾ELEVEN体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",台湾ELEVEN体育
 rtmp://219.80.97.77/sat/tv731
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
