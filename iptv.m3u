@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
-http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV13
-http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/261288
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBCWorldNews
@@ -36,7 +36,7 @@ http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/20705
 #EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="常用",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
-http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/282724
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHK WORLD HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="常用",ChannelNewsAsia
