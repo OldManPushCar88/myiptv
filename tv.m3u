@@ -21,6 +21,8 @@ rtmp://219.80.97.77/sat/tv731
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
 #EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA备" group-title="常用",TNT-NBA-备
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/4943
+#EXTINF:-1,tvg-id="女足" tvg-name="女足" group-title="常用",女足
+https://verycloudct.inter.71edge.com/tslive/l1/c65_ssports_20230722_d0blcigq_1080p50_chst1_t4/AUqpkeQkRU5HhGUgnHu9rXiuLG1496y6F_G27BnxvT6i7Gs6_1EHKCLXw6pLHJTfbzTskNWv4VFZZjoeqwvljDb-4rqTt6rQJetsV5vxnCu_Rw3e1Em8IUYRfUOwXKr2y3VmWKeHM5pEopk348DhCqdDzBFR6Ujg1pqZSswOgp20UJngUdi9UFZZJdDqTL9nB301u5XYweyhsq7_sEQFLCdhdlUrCdAl86txnf74vsorRhz4YoMDc66Y4PF_mRaIjDNyhVKx0yvwmlX7Vx3NtvatPIGX5h0PorjGwqi9KuQ/16650299f7d818a75a3b854a3de6606d4/c65_ssports_20230722_d0blcigq_1080p50_chst1_t4.m3u8?key=04bb9bccdd29612302217c92f1d929fab&dis_t=1690026379&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1690026384
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
