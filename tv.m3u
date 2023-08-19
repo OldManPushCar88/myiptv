@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文(备)" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文(备)
@@ -15,14 +13,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
 https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
-#EXTINF:-1,tvg-id="台湾ELEVEN体育" tvg-name="台湾ELEVEN体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",台湾ELEVEN体育
-rtmp://219.80.97.77/sat/tv731
-#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN体育" group-title="常用",ESPN体育
-http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/1269
-#EXTINF:-1,tvg-id="TNT-NBA" tvg-name="TNT-NBA备" group-title="常用",TNT-NBA-备
-http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/4943
-#EXTINF:-1,tvg-id="女足" tvg-name="女足" group-title="常用",女足
-https://verycloudct.inter.71edge.com/tslive/l1/c65_ssports_20230722_d0blcigq_1080p50_chst1_t4/AUqpkeQkRU5HhGUgnHu9rXiuLG1496y6F_G27BnxvT6i7Gs6_1EHKCLXw6pLHJTfbzTskNWv4VFZZjoeqwvljDb-4rqTt6rQJetsV5vxnCu_Rw3e1Em8IUYRfUOwXKr2y3VmWKeHM5pEopk348DhCqdDzBFR6Ujg1pqZSswOgp20UJngUdi9UFZZJdDqTL9nB301u5XYweyhsq7_sEQFLCdhdlUrCdAl86txnf74vsorRhz4YoMDc66Y4PF_mRaIjDNyhVKx0yvwmlX7Vx3NtvatPIGX5h0PorjGwqi9KuQ/16650299f7d818a75a3b854a3de6606d4/c65_ssports_20230722_d0blcigq_1080p50_chst1_t4.m3u8?key=04bb9bccdd29612302217c92f1d929fab&dis_t=1690026379&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1690026384
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
@@ -40,10 +30,14 @@ https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5备1
 https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5备2
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+ 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+备1
 https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+备2
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7 8M
