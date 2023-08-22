@@ -8,7 +8,7 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
 http://sc2022.stream-link.org/tv2306.php?id=h13
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="常用",无线财经资讯台 
-https://sc2022.stream-link.org/tv2306.php?id=h05
+https://tv.iill.top/tvb/6
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 #EXTINF:-1,tvg-id="翡翠台（源码）" tvg-name="翡翠台（源码）" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台（源码） 
@@ -60,8 +60,12 @@ http://faucontv.live:8080/vaya/2kTxdjWYfn/114998
 http://faucontv.live:8080/vaya/2kTxdjWYfn/21281
 #EXTINF:-1,tvg-id="BEIN-sports-USA" tvg-name="US-ESPN" group-title="常用",BEIN-sports-USA
 http://faucontv.live:8080/vaya/2kTxdjWYfn/115009
-#EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="US-ESPN" group-title="常用",BEIN-sports-AU
+#EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="BEIN-sports-AU" group-title="常用",BEIN-sports-AU
 http://faucontv.live:8080/vaya/2kTxdjWYfn/115891
+#EXTINF:-1,tvg-id="NOW-sports-英超" tvg-name="NOW-sports-英超" group-title="常用",NOW-sports-英超
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
+#EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW-sports1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554949&extension=ts&play_token=XWRY8eYrZY
 
 #EXTINF:-1,tvg-id="CCTV奥林匹克4k" tvg-name="CCTV奥林匹克4K" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV奥林匹克4K
 https://cntv.sbs/tv?auth=230813&id=cctv164k
