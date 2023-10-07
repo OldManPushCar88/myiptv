@@ -4,15 +4,15 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="常用",now新闻台
-http://hkdtmb.com/dtmb/332/index.m3u8?token=Y9_RWTQPQK920lxlRNMaBg&expires=1693274575
+https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
-http://sc2022.stream-link.org/tv2306.php?id=h13
+https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="常用",无线财经资讯台 
-https://tv.iill.top/tvb/6
+https://sc2022.stream-link.org/tv2306.php?id=h07
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台 
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1,tvg-id="翡翠台（源码）" tvg-name="翡翠台（源码）" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台（源码） 
-https://sc2022.stream-link.org/tv2308.php?id=s01
+https://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台 
 http://hkdtmb.com/dtmb/84/index.m3u8?token=hOlwx3n844oTgKFFq-uIFg&expires=1693274575
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
-https://cntv.sbs/tv?auth=230813&id=cctv2
+https://cntv.sbs/tv?auth=231005&id=cctv2
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV13
-https://cntv.sbs/tv?auth=230813&id=cctv13
+https://cntv.sbs/tv?auth=231005&id=cctv13
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" group-title="常用",第一财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
@@ -64,13 +64,13 @@ http://faucontv.live:8080/vaya/2kTxdjWYfn/115009
 http://faucontv.live:8080/vaya/2kTxdjWYfn/115891
 #EXTINF:-1,tvg-id="NOW-sports-英超" tvg-name="NOW-sports-英超" group-title="常用",NOW-sports-英超
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
-#EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW-sports1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554949&extension=ts&play_token=XWRY8eYrZY
+#EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW体育精选
+https://sc2022.stream-link.org/tv2306.php?id=s01
 
 #EXTINF:-1,tvg-id="CCTV奥林匹克4k" tvg-name="CCTV奥林匹克4K" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV奥林匹克4K
-https://cntv.sbs/tv?auth=230813&id=cctv164k
+https://cntv.sbs/tv?auth=231005&id=cctv16
 #EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-4K
-https://cntv.sbs/tv?auth=230813&id=cctv4k
+https://cntv.sbs/tv?auth=231005&id=cctv4k
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1备1
@@ -94,7 +94,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5备3
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5备4
-https://cntv.sbs/tv?auth=230813&id=cctv5
+https://cntv.sbs/tv?auth=231005&id=cctv5
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+ 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+备1
@@ -104,7 +104,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/32212282
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+备3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+备4
-https://cntv.sbs/tv?auth=230813&id=cctv5p
+https://cntv.sbs/tv?auth=231005&id=cctv5p
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6 8M
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7 8M
