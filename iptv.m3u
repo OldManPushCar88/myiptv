@@ -28,7 +28,7 @@ https://cntv.sbs/tv?auth=231005&id=cctv13
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" group-title="常用",第一财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
-http://faucontv.live:8080/vaya/2kTxdjWYfn/15087
+https://sc2022.stream-link.org/tv2306.php?id=e11
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
 https://sc2022.stream-link.org/tv2306.php?id=e05
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
@@ -39,8 +39,6 @@ http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/20705
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHK WORLD HD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="常用",ChannelNewsAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
@@ -49,19 +47,20 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
-https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
+https://cntv.sbs/tv?auth=231005&id=jbty
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",新视觉
-#EXTINF:-1,tvg-id="球赛直播" tvg-name="球赛直播" group-title="常用",球赛直播
-https://sc2022.stream-link.org/tv2306.php?id=c00
-#EXTINF:-1,tvg-id="US-ESPN" tvg-name="US-ESPN" group-title="常用",US-ESPN
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114998
-#EXTINF:-1,tvg-id="SKY-sport-英超" tvg-name="US-ESPN" group-title="常用",SKY-sport-英超
-http://faucontv.live:8080/vaya/2kTxdjWYfn/21281
-#EXTINF:-1,tvg-id="BEIN-sports-USA" tvg-name="US-ESPN" group-title="常用",BEIN-sports-USA
-http://faucontv.live:8080/vaya/2kTxdjWYfn/115009
-#EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="BEIN-sports-AU" group-title="常用",BEIN-sports-AU
-http://faucontv.live:8080/vaya/2kTxdjWYfn/115891
+https://cntv.sbs/tv?auth=231005&id=xsj
+#EXTINF:-1,tvg-id="球赛直播" tvg-name="魅力足球" group-title="常用",球赛直播
+https://cntv.sbs/tv?auth=231005&id=mlzq
+#EXTINF:-1,tvg-id="US-ESPN" tvg-name="BesTV-8「IPV6」" group-title="常用",BesTV-8「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?
+#EXTINF:-1,tvg-id="SKY-sport-英超" tvg-name="咪咕直播-28「IPV6」" group-title="常用",咪咕直播-28「IPV6」
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1,tvg-id="BEIN-sports-USA" tvg-name="咪咕直播-39「IPV6」" group-title="常用",咪咕直播-39「IPV6」
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="咪咕直播-53「IPV6」" group-title="常用",咪咕直播-53「IPV6」
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1,tvg-id="NOW-sports-英超" tvg-name="NOW-sports-英超" group-title="常用",NOW-sports-英超
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
 #EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW体育精选
