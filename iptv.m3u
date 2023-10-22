@@ -22,13 +22,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
-https://cntv.sbs/tv?auth=231005&id=cctv2
+https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV13
-https://cntv.sbs/tv?auth=231005&id=cctv13
+https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" group-title="常用",第一财经
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
+https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
-https://sc2022.stream-link.org/tv2306.php?id=e11
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
 https://sc2022.stream-link.org/tv2306.php?id=e05
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育高清
-https://cntv.sbs/tv?auth=231005&id=jbty
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",劲爆体育
+https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",新视觉
-https://cntv.sbs/tv?auth=231005&id=xsj
-#EXTINF:-1,tvg-id="球赛直播" tvg-name="魅力足球" group-title="常用",球赛直播
-https://cntv.sbs/tv?auth=231005&id=mlzq
+https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" group-title="常用",魅力足球
+https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1,tvg-id="US-ESPN" tvg-name="BesTV-8「IPV6」" group-title="常用",BesTV-8「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?
 #EXTINF:-1,tvg-id="SKY-sport-英超" tvg-name="咪咕直播-28「IPV6」" group-title="常用",咪咕直播-28「IPV6」
