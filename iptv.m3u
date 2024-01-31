@@ -57,8 +57,8 @@ http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
 http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
 #EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="咪咕直播-53「IPV6」" group-title="常用",咪咕直播-53「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-id="NOW-sports-英超" tvg-name="NOW-sports-英超" group-title="常用",NOW-sports-英超
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
+#EXTINF:-1,tvg-id="NBA" tvg-name="NBA" group-title="常用",NBA
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
 #EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW体育精选
 https://sc2022.stream-link.org/tv2306.php?id=s01
 
