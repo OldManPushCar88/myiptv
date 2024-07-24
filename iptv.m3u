@@ -72,16 +72,16 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://sc2022.stream-link.org/tv2306.php?id=s01
 
 
-#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="常用",有线新闻台 
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://epg.112114.xyz/logo/NOW财经台.png" group-title="常用",NOW财经台 
+https://sc2024.stream-link.org/live/202144175232.php?id=h447qhj
 #EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="常用",now新闻台
-https://sc2022.stream-link.org/tv2306.php?id=h08
+https://sc2024.stream-link.org/live/202144175232.php?id=h150thn
 #EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
-https://sc2022.stream-link.org/tv2306.php?id=h15
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="常用",无线财经资讯台 
-https://sc2022.stream-link.org/tv2306.php?id=h07
+https://sc2024.stream-link.org/live/202144175232.php?id=h184hhs
+#EXTINF:-1,tvg-id="CNBC财经" tvg-name="CNBC财经" tvg-logo="https://epg.112114.xyz/logo/CNBC财经.png" group-title="常用",CNBC财经 
+https://sc2024.stream-link.org/live/202144175232.php?id=e770mea
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+https://sc2024.stream-link.org/live/202144175232.php?id=h518fhj
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
