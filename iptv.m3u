@@ -60,28 +60,6 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1,tvg-id="咪咕体育直播4" tvg-name="咪咕体育直播4" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="常用",咪咕体育直播4
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",新视觉
-https://stream1.freetv.fun/fbd69912ecebf67f6a6167a80dfd5dc71471a6eeec66ea79fe8e09db15ed2e2c.ctv
-#EXTINF:-1,tvg-id="SKY-sport-英超" tvg-name="咪咕直播-28「IPV6」" group-title="常用",咪咕直播-28「IPV6」
-http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1,tvg-id="BEIN-sports-USA" tvg-name="咪咕直播-39「IPV6」" group-title="常用",咪咕直播-39「IPV6」
-http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1,tvg-id="BEIN-sports-AU" tvg-name="咪咕直播-53「IPV6」" group-title="常用",咪咕直播-53「IPV6」
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-id="NOW-sports1" tvg-name="NOW-sports1" group-title="常用",NOW体育精选
-https://sc2022.stream-link.org/tv2306.php?id=s01
-
-
-#EXTINF:-1,tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://epg.112114.xyz/logo/NOW财经台.png" group-title="常用",NOW财经台 
-https://sc2024.stream-link.org/live/202144175232.php?id=h447qhj
-#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="常用",now新闻台
-https://sc2024.stream-link.org/live/202144175232.php?id=h506vhd
-#EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="常用",香港国际财经台 
-https://sc2024.stream-link.org/live/202144175232.php?id=h184hhs
-#EXTINF:-1,tvg-id="CNBC财经" tvg-name="CNBC财经" tvg-logo="https://epg.112114.xyz/logo/CNBC财经.png" group-title="常用",CNBC财经 
-https://sc2024.stream-link.org/live/202144175232.php?id=e770mea
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="常用",翡翠台
-https://sc2024.stream-link.org/live/202144175232.php?id=h518fhj
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
