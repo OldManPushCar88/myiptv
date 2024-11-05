@@ -12,7 +12,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
 https://stream1.freetv.fun/cnbc-7.m3u8
-
+#EXTINF:-1,tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="常用",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
@@ -48,8 +49,6 @@ https://stream1.freetv.fun/sky-news-now-1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="常用",CNBCHongKong
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="常用",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
