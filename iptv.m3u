@@ -37,13 +37,13 @@ https://stream1.freetv.fun/cnn-1.m3u8
 #EXTINF:-1,tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",CBS News
 https://stream1.freetv.fun/cbs-news-5.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
-https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+https://stream1.freetv.fun/bbc-news-1.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist-back.m3u8
+https://stream1.freetv.fun/nhkworldjapan-jp-1.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="常用",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://stream1.freetv.fun/fox-news-1.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
+https://stream1.freetv.fun/sky-news-now-1.m3u8
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="常用",ChannelNewsAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
