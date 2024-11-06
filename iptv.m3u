@@ -1,13 +1,18 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
-https://stream1.freetv.fun/wu-xian-xin-wen-2.m3u8
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",明珠台
-https://stream1.freetv.fun/ming-zhu-1.m3u8
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="HOY新闻" tvg-name="HOY新闻" tvg-logo="https://epg.112114.xyz/logo/HOY新闻.png" group-title="常用",HOY新闻
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="常用",TVBS新闻
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
@@ -40,15 +45,13 @@ https://stream1.freetv.fun/cbs-news-5.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
 https://stream1.freetv.fun/bbc-news-1.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
-https://stream1.freetv.fun/nhkworldjapan-jp-1.m3u8
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="常用",FOX News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
 https://stream1.freetv.fun/sky-news-now-1.m3u8
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="常用",ChannelNewsAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="常用",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
