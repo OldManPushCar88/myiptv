@@ -1,14 +1,15 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+https://tv.iill.top/IPTV/wx
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="HOY新闻" tvg-name="HOY新闻" tvg-logo="https://epg.112114.xyz/logo/HOY新闻.png" group-title="常用",HOY新闻
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="常用",TVBS新闻
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+https://tv.iill.top/litv/4gtv-4gtv072
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
@@ -18,7 +19,7 @@ http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgini
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
 https://stream1.freetv.fun/cnbc-7.m3u8
 #EXTINF:-1,tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="常用",NBC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
 
 
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
@@ -29,8 +30,8 @@ http://auhome.eeoo.net:35455/ysptp/cctv5.m3u8
 http://auhome.eeoo.net:35455/ysptp/cctv5p.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV13
 http://auhome.eeoo.net:35455/ysptp/cctv13.m3u8
-#EXTINF:-1,tvg-id="NOW sports" tvg-name="NOW sports" tvg-logo="https://epg.112114.xyz/logo/nowsports.png" group-title="常用",NOW sports
-https://stream1.freetv.fun/nowsports-1.ctv
+#EXTINF:-1,tvg-id="NOW sports" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育
+https://php.17186.eu.org/gdtv/web/gdty.m3u8
 
 #EXTINF:-1,tvg-id="7News" tvg-name="7News" group-title="常用",7News
 https://i.mjh.nz/.r/seven-mel.m3u8
@@ -57,6 +58,12 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="常用",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1,tvg-id="CNBC Asia" tvg-name="CNBC Asia" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC Asia
+https://tv.iill.top/4gtv/235
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1-高码
 http://auhome.eeoo.net:35455/ysptp/cctv1.m3u8
