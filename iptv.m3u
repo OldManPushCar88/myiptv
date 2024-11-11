@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 https://tv.iill.top/IPTV/wx
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="常用",NOW新闻
+https://sc2024.stream-link.org/live/202144175232.php?id=hkt5389wmsr&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
+#EXTINF:-1,tvg-id="NOW财经" tvg-name="NOW财经" tvg-logo="https://epg.112114.xyz/logo/NOW财经.png" group-title="常用",NOW财经
+https://sc2024.stream-link.org/live/202144175232.php?id=hkt3947qawc&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
 #EXTINF:-1,tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://epg.112114.xyz/logo/TVB PLUS.png" group-title="常用",TVB PLUS
 https://sc2024.stream-link.org/live/202144175232.php?id=hkt8780ncns&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
 
