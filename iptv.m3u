@@ -1,14 +1,11 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 https://tv.iill.top/IPTV/wx
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="常用",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="常用",寰宇财经
-https://tv.iill.top/litv/litv-longturn23
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
-https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="常用",TVBS新闻
-https://tv.iill.top/litv/4gtv-4gtv072
+#EXTINF:-1,tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://epg.112114.xyz/logo/TVB PLUS.png" group-title="常用",TVB PLUS
+https://sc2024.stream-link.org/live/202144175232.php?id=hkt8780ncns&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
+
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
@@ -17,6 +14,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
 https://tv.iill.top/4gtv/235
+#EXTINF:-1,tvg-id="Fox Bussiness" tvg-name="Fox Bussiness" tvg-logo="https://epg.112114.xyz/logo/Fox Bussiness.png" group-title="常用",Fox Bussiness
+https://sc2024.stream-link.org/live/202144175232.php?id=eng6337vucu&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
 #EXTINF:-1,tvg-id="FOX News" tvg-name="FOX News" tvg-logo="https://epg.112114.xyz/logo/FOXNews.png" group-title="常用",FOX News
 https://tv.iill.top/beesport/FOX_NEWS_Live_TV
 
@@ -56,6 +55,10 @@ https://stream1.freetv.fun/sky-news-now-1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="常用",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="常用",中天新闻
+https://tv.iill.top/litv/4gtv-4gtv009
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="常用",TVBS新闻
+https://tv.iill.top/litv/4gtv-4gtv072
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="常用",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
