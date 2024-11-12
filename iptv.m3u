@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 https://tv.iill.top/IPTV/wx
-#EXTINF:-1,tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="常用",NOW新闻
-https://sc2024.stream-link.org/live/202144175232.php?id=hkt5389wmsr&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
-#EXTINF:-1,tvg-id="NOW财经" tvg-name="NOW财经" tvg-logo="https://epg.112114.xyz/logo/NOW财经.png" group-title="常用",NOW财经
-https://sc2024.stream-link.org/live/202144175232.php?id=hkt3947qawc&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
-#EXTINF:-1,tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://epg.112114.xyz/logo/TVB PLUS.png" group-title="常用",TVB PLUS
-https://sc2024.stream-link.org/live/202144175232.php?id=hkt8780ncns&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
-
+#EXTINF:-1,tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://epg.112114.xyz/logo/TVB+.png" group-title="常用",TVB+
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="常用",HOY78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
@@ -35,20 +32,21 @@ https://php.17186.eu.org/gdtv/web/gdty.m3u8
 #EXTINF:-1,tvg-id="速哥直播" tvg-name="速哥直播" tvg-logo="https://epg.112114.xyz/logo/速哥直播.png" group-title="常用",速哥直播
 https://pull-new.modmcdl.com/live/7602360.flv?auth_info=kNr6KwA3A91H6YTJEYDYGovP%2FCTjF47U%2FetW76rUBis%3D.483351756459343131786c4234336373
 
+
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
+https://stream1.freetv.fun/cnn-1.m3u8
 #EXTINF:-1,tvg-id="7News" tvg-name="7News" group-title="常用",7News
 https://i.mjh.nz/.r/seven-mel.m3u8
 #EXTINF:-1,tvg-id="9Melbourne" tvg-name="9Melbourne" group-title="常用",9Melbourne
 https://i.mjh.nz/.r/channel-9-vic.m3u8
 #EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="常用",ABC NEWS
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
-https://stream1.freetv.fun/cnn-1.m3u8
+#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1,tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",CBS News
 https://stream1.freetv.fun/cbs-news-5.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
 https://stream1.freetv.fun/bbc-news-1.m3u8
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="常用",NHKWorld
-https://stream1.freetv.fun/nhk-world-japan-1.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="常用",FOX News
 https://tv.iill.top/beesport/FOX_NEWS_Live_TV
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
