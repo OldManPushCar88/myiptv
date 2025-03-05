@@ -17,6 +17,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
 https://fl2.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://epg.112114.xyz/logo/MSNBC.png" group-title="常用",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1,tvg-id="Fox Bussiness" tvg-name="Fox Bussiness" tvg-logo="https://epg.112114.xyz/logo/Fox Bussiness.png" group-title="常用",Fox Bussiness
 https://sc2024.stream-link.org/live/202144175232.php?id=eng6337vucu&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
 ##https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8
