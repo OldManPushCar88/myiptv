@@ -1,40 +1,45 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
 https://tv.iill.top/IPTV/wx
+#EXTINF:-1,tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://epg.112114.xyz/logo/Now新闻.png" group-title="常用",Now新闻
+https://sc2025.stream-link.org/playlist/05be98f80457.php?id=now2428upgk&token=63227a61-3966-49b0-9c99-9ebee596fdb0&hmac=d6073f27a48f651b32e0a3294b1fcebe
 #EXTINF:-1,tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://epg.112114.xyz/logo/TVB+.png" group-title="常用",TVB+
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="常用",HOY78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB+" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB+.png" group-title="常用",明珠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用",凤凰中文
-https://tv.iill.top/phenix/fhzw
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+##https://tv.iill.top/phenix/fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+##https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",Bloomberg
 http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="常用",CNBC
-https://tv.iill.top/4gtv/235
+https://fl2.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-id="Fox Bussiness" tvg-name="Fox Bussiness" tvg-logo="https://epg.112114.xyz/logo/Fox Bussiness.png" group-title="常用",Fox Bussiness
 https://sc2024.stream-link.org/live/202144175232.php?id=eng6337vucu&session=6676afec-ac18-4ec2-a11c-00cacfeabc8d
+##https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8
 #EXTINF:-1,tvg-id="FOX News" tvg-name="FOX News" tvg-logo="https://epg.112114.xyz/logo/FOXNews.png" group-title="常用",FOX News
-https://tv.iill.top/beesport/FOX_NEWS_Live_TV
+https://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+##https://tv.iill.top/beesport/FOX_NEWS_Live_TV
 
 
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用",CCTV2
-http://auhome.eeoo.net:35455/ysptp/cctv2.m3u8
+http://auhome.eeoo.net:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="常用",CCTV5
-http://auhome.eeoo.net:35455/ysptp/cctv5.m3u8
+http://auhome.eeoo.net:35455/gaoma/cctv5.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用",CCTV5+
-http://auhome.eeoo.net:35455/ysptp/cctv5p.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV13
-http://auhome.eeoo.net:35455/ysptp/cctv13.m3u8
+http://auhome.eeoo.net:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV新闻
+http://auhome.eeoo.net:35455/itv/5000000011000031108.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="NOW sports" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育
-https://php.17186.eu.org/gdtv/web/gdty.m3u8
-#EXTINF:-1,tvg-id="速哥直播" tvg-name="速哥直播" tvg-logo="https://epg.112114.xyz/logo/速哥直播.png" group-title="常用",速哥直播
-https://pull-new.modmcdl.com/live/7602360.flv?auth_info=kNr6KwA3A91H6YTJEYDYGovP%2FCTjF47U%2FetW76rUBis%3D.483351756459343131786c4234336373
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
 https://stream1.freetv.fun/cnn-1.m3u8
+##https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1,tvg-id="7News" tvg-name="7News" group-title="常用",7News
 https://i.mjh.nz/.r/seven-mel.m3u8
 #EXTINF:-1,tvg-id="9Melbourne" tvg-name="9Melbourne" group-title="常用",9Melbourne
@@ -46,7 +51,7 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1,tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="常用",CBS News
 https://stream1.freetv.fun/cbs-news-5.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="常用",BBC News
-https://stream1.freetv.fun/bbc-news-1.m3u8
+https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/9bd0fa4e-22a6-451b-9d1a-fad52594b9da/5.m3u8
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="常用",FOX News
 https://tv.iill.top/beesport/FOX_NEWS_Live_TV
 #EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="常用",SKY NEWS HD
