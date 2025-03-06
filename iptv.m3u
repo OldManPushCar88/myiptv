@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="常用",无线新闻台
-https://tv.iill.top/IPTV/wx
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://epg.112114.xyz/logo/Now新闻.png" group-title="常用",Now新闻
 https://sc2025.stream-link.org/playlist/05be98f80457.php?id=now2428upgk&token=63227a61-3966-49b0-9c99-9ebee596fdb0&hmac=d6073f27a48f651b32e0a3294b1fcebe
 #EXTINF:-1,tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://epg.112114.xyz/logo/TVB+.png" group-title="常用",TVB+
