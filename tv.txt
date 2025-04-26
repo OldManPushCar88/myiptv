@@ -1,76 +1,93 @@
-无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-有线新闻台 ,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
-now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
-凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178 
-凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&amp;IASHttpSessionId=RR423820220409134714119178
-TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
-翡翠台 ,https://cdn.hklive.tv/xxxx/81/index.m3u8
-广东体育高清,http://36.99.122.13/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV4 8M,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5 8M,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-CCTV5超清,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-CCTV-5后备1,https://live.v1.mk/aishang/cctv5hd
-CCTV-5后备2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV5+ 8M,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
-CCTV5+超清,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-CCTV-5+后备1,https://live.v1.mk/aishang/cctv5p
-CCTV-5+后备2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV6 8M,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7 8M,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8 8M,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9 8M,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10 8M,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11 8M,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12 8M,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13 8M,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14 8M,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15 8M,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16 8M,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-江苏卫视 8M,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-广西卫视 8M,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
-四川卫视 8M,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-湖南卫视 8M,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视 8M,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-东方卫视 8M,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-北京卫视 8M,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-天津卫视 8M,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视 8M,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视 8M,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视 8M,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-广东卫视 8M,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视 8M,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
-湖北卫视 8M,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
-吉林卫视 8M,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-山东卫视 8M,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
-江西卫视 8M,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
-河北卫视 8M,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视 8M,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
-重庆卫视 8M,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-东南卫视 8M,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
-云南卫视 8M,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视 8M,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
-海南卫视 8M,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
-CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
-CCTV4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
-CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
-CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
-CCTV6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
-CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
-CCTV8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
-CCTV9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
-CCTV10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
-CCTV11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
-CCTV12,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
-CCTV13,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
-CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
-CCTV15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+央视频道,#genre#
+
+CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+CCTV4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+CCTV5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+CCTV5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+CCTV6,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+CCTV7,http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+CCTV8,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+CCTV9,http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+CCTV10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+CCTV11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+CCTV12,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+CCTV13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
+CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
+CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
+
+卫视频道,#genre#
+
+湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
+浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
+江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
+广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
+东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+东南卫视,http://itv.iptv1688.top:2016/itv.php?id=东南卫视
+辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
+深圳卫视,http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
+天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
+安徽卫视,http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
+河北卫视,http://itv.iptv1688.top:2016/itv.php?id=河北卫视
+重庆卫视,http://itv.iptv1688.top:2016/itv.php?id=重庆卫视
+吉林卫视,http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
+黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
+山东卫视,http://itv.iptv1688.top:2016/itv.php?id=山东卫视
+海南卫视,http://itv.iptv1688.top:2016/itv.php?id=海南卫视
+贵州卫视,http://itv.iptv1688.top:2016/itv.php?id=贵州卫视
+湖北卫视,http://itv.iptv1688.top:2016/itv.php?id=湖北卫视
+河南卫视,http://itv.iptv1688.top:2016/itv.php?id=河南卫视
+广西卫视,http://itv.iptv1688.top:2016/itv.php?id=广西卫视
+江西卫视,http://itv.iptv1688.top:2016/itv.php?id=江西卫视
+陕西卫视,http://itv.iptv1688.top:2016/itv.php?id=陕西卫视
+宁夏卫视,http://itv.iptv1688.top:2016/itv.php?id=宁夏卫视
+内蒙古卫视,http://itv.iptv1688.top:2016/itv.php?id=内蒙古卫视
+西藏卫视,http://itv.iptv1688.top:2016/itv.php?id=西藏卫视
+四川卫视,http://itv.iptv1688.top:2016/itv.php?id=四川卫视
+山西卫视,http://itv.iptv1688.top:2016/itv.php?id=山西卫视
+甘肃卫视,http://itv.iptv1688.top:2016/itv.php?id=甘肃卫视
+新疆卫视,http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
+青海卫视,http://itv.iptv1688.top:2016/itv.php?id=青海卫视
+延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
+兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
+
+地方频道,#genre#
+
+山东教育,http://itv.iptv1688.top:2016/itv.php?id=山东教育
+北京科教纪实,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
+北京卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
+CETV1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
+CETV2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
+CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
+金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
+哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
+优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
+咪咕体育,http://itv.iptv1688.top:2016/itv.php?id=咪咕体育
+睛彩篮球,http://itv.iptv1688.top:2016/itv.php?id=睛彩篮球
+睛彩广场舞,http://itv.iptv1688.top:2016/itv.php?id=睛彩广场舞
+超级电影,http://itv.iptv1688.top:2016/itv.php?id=超级电影
+超级综艺,http://itv.iptv1688.top:2016/itv.php?id=超级综艺
+超级电视剧,http://itv.iptv1688.top:2016/itv.php?id=超级电视剧
+惊悚悬疑,http://itv.iptv1688.top:2016/itv.php?id=惊悚悬疑
+金牌综艺,http://itv.iptv1688.top:2016/itv.php?id=金牌综艺
+动作电影,http://itv.iptv1688.top:2016/itv.php?id=动作电影
+黑莓动画,http://itv.iptv1688.top:2016/itv.php?id=黑莓动画
+军旅剧场,http://itv.iptv1688.top:2016/itv.php?id=军旅剧场
+精品大剧,http://itv.iptv1688.top:2016/itv.php?id=精品大剧
+东北热剧,http://itv.iptv1688.top:2016/itv.php?id=东北热剧
+欢乐剧场,http://itv.iptv1688.top:2016/itv.php?id=欢乐剧场
+黑莓电影,http://itv.iptv1688.top:2016/itv.php?id=黑莓电影
+北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
+超级体育,http://itv.iptv1688.top:2016/itv.php?id=超级体育
+古装剧场,http://itv.iptv1688.top:2016/itv.php?id=古装剧场
+爱情喜剧,http://itv.iptv1688.top:2016/itv.php?id=爱情喜剧
+海外剧场,http://itv.iptv1688.top:2016/itv.php?id=海外剧场
+家庭剧场,http://itv.iptv1688.top:2016/itv.php?id=家庭剧场
+武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
+中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
