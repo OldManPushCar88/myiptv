@@ -1,5 +1,6 @@
 央视频道,#genre#
 
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
