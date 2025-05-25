@@ -31,7 +31,7 @@ http://auhome.eeoo.net:35455/bptv/10000100000000050000000003870759.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用",CCTV新闻
 http://auhome.eeoo.net:35455/bptv/10000100000000050000000004796248.m3u8
 #EXTINF:-1,tvg-id="NOW sports" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="常用",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="常用",CNN HD
 https://stream1.freetv.fun/cnn-1.m3u8
