@@ -23,3 +23,4 @@ CCTV16 奥林匹克,https://hls-gateway.vpstv.net/streams/709272.m3u8
 CCTV17HD,https://hls-gateway.vpstv.net/streams/708820.m3u8
 无线新闻台HD,https://hls-gateway.vpstv.net/streams/476926.m3u8
 NOW新闻台,https://hls-gateway.vpstv.net/streams/477070.m3u8
+
