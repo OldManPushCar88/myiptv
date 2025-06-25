@@ -1,3 +1,4 @@
+常用,#genre#
 凤凰中文,https://hls-gateway.vpstv.net/streams/476959.m3u8
 凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
