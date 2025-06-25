@@ -1,5 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-大陸,#genre#
 凤凰中文,https://hls-gateway.vpstv.net/streams/476959.m3u8
 凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
