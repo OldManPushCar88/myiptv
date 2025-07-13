@@ -3,6 +3,7 @@
 凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 五星体育,https://hls-gateway.vpstv.net/streams/636980.m3u8
+ESPN,https://tv.iill.top/beesport/ESPN_2_Live_TV
 CCTV1 综合HD,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV2 财经HD,https://hls-gateway.vpstv.net/streams/476881.m3u8
 CCTV3 综艺HD,https://hls-gateway.vpstv.net/streams/476883.m3u8
