@@ -1,7 +1,10 @@
 黄鱼资源,#genre#
+凤凰中文,https://hls-gateway.vpstv.net/streams/476959.m3u833
+凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u844
+广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u855
+五星体育,https://hls-gateway.vpstv.net/streams/636980.m3u8
 无线新闻台HD,https://hls-gateway.vpstv.net/streams/476926.m3u8
 NOW新闻台,https://hls-gateway.vpstv.net/streams/477070.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
